@@ -50,4 +50,4 @@ function PersegiPanjang(a, b) {
       lanjut = prompt("Mau pilih menu yang lain? (Y/T)");
     } while (lanjut === "Y" || lanjut === "y");
     
-    console.log("--PROGRAM SELESAI--");
+    console.log("PROGRAM SELESAI..!");
